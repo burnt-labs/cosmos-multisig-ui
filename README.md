@@ -58,7 +58,7 @@ This app relies on DGraph as for storing account, transaction and signature deta
 
 As your instance of the app is used, you can return to the DGraph dashboard to view records for any accounts, transactions or signatures.
 
-### 3. Run your instance
+### 4. Run your instance
 
 With the simapp process running, run these commands in another window:
 
